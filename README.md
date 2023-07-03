@@ -10,11 +10,11 @@ to give you a few more relevant videos.
 This has been tested on Linux, but should work on Windows/Mac as well with
 a video viewer installed.
 
-
+# Forked from https://github.com/nemec/snapchat-map-scraper
 ## Install Instructions
 
 ```bash
-git clone https://github.com/nemec/snapchat-map-scraper.git
+git clone https://github.com/itsmerif/snapchat-map-scraper.git
 cd snapchat-map-scraper/
 python3 -m venv env  # create virtual environment
 source env/bin/activate  # activate virtual environment
